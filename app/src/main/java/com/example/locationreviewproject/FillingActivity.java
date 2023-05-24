@@ -220,15 +220,6 @@ public class FillingActivity extends AppCompatActivity {
         }
     }
 
-//    public void onActivityResult(int requestCode, int resultCode, Intent data) { //when onActivity result is called
-//        super.onActivityResult(requestCode, resultCode, data);
-//        if (requestCode == 1) {
-//            if (resultCode == RESULT_OK) {
-//                Uri uri = data.getData();
-//                imgProfilePicture.setImageURI(uri);
-//            }
-//        }
-//    }
 
 
     private void showMessageOKCancel(DialogInterface.OnClickListener okListener) {
