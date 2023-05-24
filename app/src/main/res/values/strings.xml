@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Location Review Project</string>
+    <string name="enterEmailAddress">enterEmailAddress</string>
+    <string name="txtPassword">enter your password</string>
+    <string name="btnLogin">Login</string>
+    <string name="navHome">Home</string>
+    <string name="navFav">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="txtAddress">Address</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtDescription">txtDescription</string>
+    <string name="btnSave">Save</string>
+    <string name="takePhoto">takePhoto</string>
+    <string name="realGm">Go to Real GM</string>
+</resources>
